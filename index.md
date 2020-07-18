@@ -1,7 +1,9 @@
-Book title: HTML and CSS
+# Book titles
 
-Book title: JavaScript and jQuery
+- HTML and CSS
 
-Book title: Head first HTML and CSS
+- JavaScript and jQuery
 
-Book title: Digital Minimalism
+- Head first HTML and CSS
+
+- Digital Minimalism
